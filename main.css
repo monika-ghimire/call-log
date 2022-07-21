@@ -1,0 +1,41 @@
+
+.show-number-holder
+{
+    margin-left:25%;
+    background-color:white;
+    width:30%;
+    height:50px;
+    border:1px solid gainsboro;
+}
+.dail-number-home
+{
+   margin-left:25%;
+    background-color: rgb(127, 126, 126);
+    width:30%;
+    justify-content: center;
+}
+.number-holder-row
+{
+    display: flex;
+    position: relative;
+    margin-left:20%;
+}
+.number
+{
+    padding:20px;
+    font-size:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(1, 1, 1);
+    color:rgb(250, 247, 247);
+    margin:10px;
+    border-radius:20px;
+}
+.call-dail-btn
+{
+    background-color:green;
+    padding:20px;
+    margin-left:45%;
+    margin-bottom:10px;
+    border-radius:50px;
+    font-size:30px;
+}
