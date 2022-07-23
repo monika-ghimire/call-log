@@ -2,10 +2,22 @@
 .show-number-holder
 {
     margin-left:25%;
-    background-color:white;
-    width:30%;
+    background-color:#F0F0F0;
+    width:27%;
     height:50px;
-    border:1px solid gainsboro;
+    border:0px;
+    font-size:20px;
+    /* position: relative; */
+}
+.cancle-Btn
+{
+    width:3%;
+    height:50px;
+    border:0px;
+    color:red;
+    font-size:20px;
+    font-weight: bold;
+    
 }
 .dail-number-home
 {
